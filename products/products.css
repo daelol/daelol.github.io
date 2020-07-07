@@ -18,8 +18,9 @@ main{padding-left: 180px}
 }
 .sidenav1 {
     height:auto;
-    width:10em;
-    position: right;
+    width:15em;
+    right: 30em;
+    position: fixed;
     z-index:1;
     top:11.5em;
     margin-top:0em;

@@ -3,7 +3,7 @@ html {
 }
 body {
 	font-family: Verdana, Arial, Helvetica, sans-serif;
-	max-width: 800px;
+	max-width: 960px;
 	width: 95%;                        /* fixed width was 800 */
 	background-color: white;
 	margin: 0 auto; 
